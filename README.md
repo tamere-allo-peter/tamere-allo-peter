@@ -37,7 +37,7 @@ to oversee a team of 10 people doing system and network
 administration. Five years of this and I was done : this job sucked
 big time. I love computers, but I hate people !
 
-Moved on to Team [OPT-NC](https://github.com/opt-nc) at the end of
+Moved on to [Team OPT-NC](https://github.com/opt-nc) at the end of
 2020, doing mostly sysadmin and development. Happy.
 
 ## Free Software
