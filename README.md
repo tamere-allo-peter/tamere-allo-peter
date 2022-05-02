@@ -32,7 +32,7 @@ administration](https://en.wikipedia.org/wiki/Network_administrator)
 to my set of official competences.
 
 Fast forward a few years to [team
-leader](https://en.wikipedia.org/wiki/Team_leader) status : and I had
+leader](https://en.wikipedia.org/wiki/Team_leader) status : I had
 to oversee a team of 10 people doing system and network
 administration. Five years of this and I was done : this job sucked
 big time. I love computers, but I hate people !
@@ -94,3 +94,9 @@ Unfortunately due to time and life constraints, none of these software
 is actively maintained anymore. Currently hoping to some day find the
 time to work on them again, and move them to GitHub.
 
+## Amusements
+
+Always ready for a good joke :
+
+* [Writing lines the easy way](http://punishment.librelogiciel.com)
+* [Google Parody](http://gogol.librelogiciel.com)
