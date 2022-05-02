@@ -81,7 +81,7 @@ The software I wrote that I'm the most proud of :
 
 * Boxtream (available upon request) : hugely powerful live streaming
   solution for online courses and conferences. It was used to live
-  stream and publish several thousands hours for two french
+  stream and publish several thousand hours for two french
   universities.
 
 * Camtrol (not available for now) : multi-camera PTZ controler. I had
