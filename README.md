@@ -85,7 +85,7 @@ The software I wrote that I'm the most proud of :
   universities.
 
 * Camtrol (not available for now) : multi-cameras PTZ controlller and video mixing desk. I had
-  the immense chance to install it, coupled with Boxtream, at the
+  the immense honor to install it, coupled with Boxtream, at the
   [Parliament of the Republic of Vanuatu](https://parliament.gov.vu/)
   where it was used for a number of years to live stream Parliament's
   chamber sessions or room meetings.
